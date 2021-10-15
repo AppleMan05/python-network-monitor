@@ -8,7 +8,6 @@ def plotting(x,y,y1):
     plt.title("bandwidth")
     plt.legend()
     plt.show()
-    print(f'total upload = {up}, total download = {down}')
 
 if __name__ == "__main__":
     print("Please run main.py")
